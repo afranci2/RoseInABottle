@@ -6,7 +6,7 @@ Link to project: www.theroseinabottle.com
 
 ## Screenshots
 
-![App Screenshot](https://websitesnapshots.s3.amazonaws.com/project-images/RoseInABottle/Screen+Recording+2023-02-06+at+12.51.03+PM.mov)
+![App Screenshot](https://imgflip.com/gif/7bj551)
 
 ![App Screenshot](https://monte-assets.s3.amazonaws.com/project-images/CreateMyEssay/Screenshot+2023-02-15+at+11.31.37+AM.png)
 
