@@ -5,6 +5,10 @@ Website design template for an e-commerce store that sells seasonal romantic gif
 Link to project: www.theroseinabottle.com
 
 ## Screenshots
+<img width="495" alt="Screenshot 2023-02-17 at 10 56 39 AM" src="https://user-images.githubusercontent.com/108776240/219703144-13f27fd2-8655-40a3-a319-3f87e626c2cc.png">
+
+<img width="492" alt="Screenshot 2023-02-17 at 10 57 07 AM" src="https://user-images.githubusercontent.com/108776240/219703093-d37d7e07-b373-44ae-9536-49bc3cdd3b74.png">
+<img width="489" alt="Screenshot 2023-02-17 at 10 56 57 AM" src="https://user-images.githubusercontent.com/108776240/219703123-6c322036-3dc3-4f18-9be8-7eb63325a517.png">
 
 ![App Screenshot](https://websitesnapshots.s3.amazonaws.com/project-images/RoseInABottle/Screenshot+2023-02-17+at+10.56.39+AM.png)
 
