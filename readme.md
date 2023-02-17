@@ -5,6 +5,7 @@ Website design template for an e-commerce store that sells seasonal romantic gif
 Link to project: www.theroseinabottle.com
 
 ## Screenshots
+![7bj551](https://user-images.githubusercontent.com/108776240/219702335-232e77e7-fba9-4b3a-a65f-c2e62558019b.gif)
 
 ![App Screenshot](https://imgflip.com/gif/7bj551)
 
