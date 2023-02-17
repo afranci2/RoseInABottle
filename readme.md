@@ -6,7 +6,7 @@ Link to project: www.theroseinabottle.com
 
 ## Screenshots
 
-![App Screenshot](https://imgflip.com/gif/7bj551)
+![App Screenshot](https://websitesnapshots.s3.amazonaws.com/project-images/RoseInABottle/Screenshot+2023-02-17+at+10.56.39+AM.png)
 
 ![App Screenshot](https://monte-assets.s3.amazonaws.com/project-images/CreateMyEssay/Screenshot+2023-02-15+at+11.31.37+AM.png)
 
