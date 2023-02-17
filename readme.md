@@ -1,6 +1,6 @@
 # RoseInABottle: TikTok E-Commerce Store
 
-Website design template for an e-commerce store that sells seasonal romantic gifts. Advertised on Tiktok with profit margin of 30% with $5k in seasonal sales. This year's complete website refactoring impoved website conversion by 2% and page speed by 156%.
+RoseInABottle is an innovative e-commerce store that offers exquisite seasonal romantic gifts. With a profit margin of ~30% and $3.5k in seasonal sales, this TikTok-based store is making waves in the online marketplace.
 
 Link to project: www.theroseinabottle.com
 
@@ -18,30 +18,29 @@ Full Website Walkthrough: (https://monte-assets.s3.amazonaws.com/video/Screen_Re
 
 **Client:** HTML, CSS, Javascript, Liquid
 
-Created custom HTML, CSS, and Liquid site template to increase site speed. Previously used template by Debutify and plugins from Shopify. Shopify provided backend payments and debutify provided frontend components and animations. Currently, this custom template ues Shopify plugins including Shopify Payments, Judge.me reviewsm, and Tiktok/Facebook Advertising API and functionality.
-Profit margin of 30% with $5k in seasonal sales
-
+The website's custom HTML, CSS, and Liquid site template were specifically designed to improve site speed, replacing the previously used slow and cumbersome template by Debutify and plugins from Shopify. Shopify provides backend payments, while debutify offers frontend components and animations. The custom template leverages Shopify plugins, including Shopify Payments, Judge.me reviews, and TikTok/Facebook Advertising API and functionality.
 
 
 ## Optimizations
 
 What optimizations did you make in your code? E.g. refactors, performance improvements, accessibility
 
-Key Takeaways
-Improved website performance
-Reduced render-blocking elements by using "defer" and "async" attributes in script tags within the head section, and minimized the impact of third-party code.
-Identified non-critical CSS and JS using Chrome DevTools' Coverage tab, and avoided shipping redundant resources that appeared in red.
-Replaced the "img" tag with "amp-img" to defer resource loading.
-Utilized Chrome DevTools and PageSpeed Insights to optimize page speed.
-Boosted the page speed score from 25 to 64, resulting in a 3% conversion rate for the store, compared to 1% the previous year.
-Optimized page speed by converting images to WebP, compressing unused JavaScript and CSS, and adding "async" and "defer" attributes to header tags.
+IMPROVED WEBSITE PERFORMANCE: 
+Reduced render-blocking elements by using "defer" and "async" attributes in script tags within the head section and minimized the impact of third-party code.
+
+Identified non-critical CSS and JS: the team used Chrome DevTools' Coverage tab to identify and eliminate redundant resources that appeared in red.
+
+Deferred resource loading: the team replaced the "img" tag with "amp-img" to defer resource loading.
+
+Utilized Chrome DevTools and PageSpeed Insights: the team optimized page speed and boosted the page speed score from 25 to 64, resulting in a 3% conversion rate for the store, compared to 1% the previous year.
+
+Optimized page speed: the team optimized page speed by converting images to WebP, compressing unused JavaScript and CSS, and adding "async" and "defer" attributes to header tags.
 
 
 ## Lessons Learned
 Key Takeaways
 Learned how to identify non-critical CSS and JS using Chrome DevTools' Coverage tab, and avoided shipping redundant resources that appeared in red.
-Utilized Chrome DevTools and PageSpeed Insights to optimize page speed.
-Also learned how to manipulate Liquid code by Shopify.
+Utilized Chrome DevTools and PageSpeed Insights to optimize page speed. Also learned how to manipulate Liquid code by Shopify. Learned key entrepreneurship principles.
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
